@@ -1,0 +1,9 @@
+{
+  "name": "tekka",
+  "version": "1.1.0",
+  "description": "Boutique en ligne Tekka — livraison à domicile ou retrait en magasin, avec panneau admin.",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
